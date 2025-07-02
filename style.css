@@ -1,0 +1,87 @@
+canvas{
+
+position: fixed;
+right: 0;
+bottom: 0;
+min-width: 100%;
+min-height: 100%;
+color: rgba(0,0,0,0.5);
+z-index:-1;
+}
+
+p {
+z-index: 1;
+color:white;
+left:60px;
+}
+
+
+
+.content{
+position:fixed;
+top:0;
+color:#000;
+
+}
+
+#up{
+position:fixed;
+left: 120px;
+bottom: 150px;
+font-size:30px;
+
+}
+
+#down{
+position:fixed;
+left: 120px;
+bottom: 30px;
+font-size:30px;
+}
+
+#left{
+
+position:fixed;
+left: 30px;
+bottom: 30px;
+font-size:30px;
+}
+
+#right{
+
+position:fixed;
+left: 210px;
+bottom: 30px;
+font-size:30px;
+
+}
+
+
+#full{
+
+position:fixed;
+left: 50px;
+top: 30px;
+
+}
+
+
+
+#resta{
+
+position:fixed;
+left: 300px;
+top: 30px;
+
+}
+
+#start{
+
+position:fixed;
+left: 600px;
+top: 30px;
+
+}
+
+
+
